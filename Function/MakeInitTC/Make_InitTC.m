@@ -1,8 +1,7 @@
 % REQ-0003
+% Make_InitTC_v_1_0
 % InitTC생성
-% !Notice
-% Excel로 정보 집어넣는 것은 구현중
-% Excel파일 생성기능 함수 추가 예정
+% Excel파일 생성기능
 
 
 %modelfilepath = 'D:\2_CodeBase\6_SimulinkTool\MatlabSimulink_ScriptAutoTool\GetModelInfo\Sample_v_0_1.slx';
